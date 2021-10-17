@@ -1,0 +1,41 @@
+.top {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+#products-title {
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 30px;
+}
+
+#products {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.quantity {
+    margin-left: 10px;
+    width: 45px;
+}
+
+.name {
+    font-size: 20px;
+}
+
+.product {
+    font-size: 20px;
+}
+
+.date-label {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.order {
+    margin-left: 10px;
+}
+
+.order-label {
+    margin-left: 10px;
+}
